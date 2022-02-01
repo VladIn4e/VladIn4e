@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there
 
+### A little bit about yourself
 
 - 👾I am good at python programming.
 -  💻 I study java.
